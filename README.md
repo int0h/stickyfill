@@ -1,7 +1,7 @@
 About the fork
 ===
 
-I fork original (https://github.com/wilddeer/stickyfill/) project mainly to avoid "seppuku" (even if there is native support). 
+I forked original (https://github.com/wilddeer/stickyfill/) project mainly to avoid "seppuku" (even if there is native support). 
 
 Also I made it plain commonjs module.
 

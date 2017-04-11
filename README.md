@@ -1,3 +1,15 @@
+About the fork
+===
+
+I fork original (https://github.com/wilddeer/stickyfill/) project mainly to avoid "seppuku" (even if there is native support). 
+
+Also I made it plain commonjs module.
+
+I tried to keep the rest of code as close as possible to original.
+
+Original readme:
+---
+
 #`position: sticky` polyfill
 
 The most accurate sticky polyfill out in the wild.

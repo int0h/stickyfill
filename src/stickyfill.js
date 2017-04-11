@@ -1,3 +1,5 @@
+var doc = document;
+var win = window;
 var watchArray = [],
     scroll,
     initialized = false,
